@@ -1,4 +1,4 @@
-import { Tree, prettyPrint } from "./index.js";
+import { Tree, prettyPrint } from "./tree.js";
 
 // creates array of 20 random numbers < 100
 const getArr = (size) => {
